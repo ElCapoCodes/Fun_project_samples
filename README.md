@@ -4,6 +4,16 @@ modified to protect privacy.</p>
 
 
 <table>
+ <th>
+  <td>
+  <p>Script</p>
+  </td>
+  
+  <td>
+  <p>Description</p>
+  </td>
+ </th>
+ 
  <tr>
   <td>
   <p>NFL_Sched.ipynb</p>
