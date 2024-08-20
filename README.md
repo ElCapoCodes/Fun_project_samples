@@ -8,6 +8,7 @@ modified to protect privacy.</p>
   <td>
   <p>NFL_Sched.ipynb</p>
   </td>
+  
   <td>
   <p>Script web scrapes the NFL season creating an excel to be
   used among family member for “friendly” wagers.</p>
@@ -15,8 +16,10 @@ modified to protect privacy.</p>
   </td>
  </tr>
 <tr>
+  <td>
   <p>Players_Qatar2022</p>
   </td>
+ 
   <td>
   <p>Script gets the official FIFA squad list for the football WC
   (after data conversion &amp; cleaning). It web-scrapes
