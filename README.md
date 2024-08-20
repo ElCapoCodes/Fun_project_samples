@@ -19,7 +19,7 @@ modified to protect privacy.</p>
  <tr>
   <td>Covid_Tracking.ipynb</td>
   <td>The script processes the covid infections tally from the state and converts it to excel used to have an extra data point of the most current level of infection in our county and the county of the university of our kids.
-<p><b>Output:</b> out_mr_County.xlsx (Sample of the running tally that I had already setup in excel using the script output)</p>
+<p><b>Output:</b> Covid_Tracking_County1.xlsx (Sample of the running tally that I had already setup in excel using the script output)</p>
 </td>
  </tr>
  <tr>
