@@ -1,5 +1,5 @@
 <h1>Private Project Samples</h1>
-<p>The list in this repository are script samples where some are for fun activities while others have more serious intent, but all in this list are or have been used on my private life.</p>
+<p>The list in this repository includes script samples where some are for fun activities while others have more serious intent.</p>
 
 <p>Most output files go thru post-processing for cosmetic
 purposes prior to be used (i.e., published). In addition, scripts have been
