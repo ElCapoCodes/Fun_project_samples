@@ -4,15 +4,15 @@ modified to protect privacy.</p>
 
 
 <table>
- <th>
-  <td>
+ <tr>
+  <th>
   <p>Script</p>
-  </td>
+  </th>
   
-  <td>
+  <th>
   <p>Description</p>
-  </td>
- </th>
+  </th>
+ </tr>
  
  <tr>
   <td>
