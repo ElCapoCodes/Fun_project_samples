@@ -27,7 +27,7 @@ modified to protect privacy.</p>
  </tr>
 <tr>
   <td>
-  <p>Players_Qatar2022</p>
+  <p>Players_Qatar2022.ipynb</p>
   </td>
  
   <td>
