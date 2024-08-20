@@ -1,9 +1,7 @@
 <h1>Private Project Samples</h1>
-<p>The list in this repository includes script samples where some are for fun activities while others have more serious intent.</p>
+<p>The list shown below includes script samples where some are for fun activities while others have more serious intent.</p>
 
-<p>Most output files go thru post-processing for cosmetic
-purposes prior to be used (i.e., published). In addition, scripts have been
-modified to protect privacy.</p>
+
 
 
 <table>
@@ -47,4 +45,7 @@ modified to protect privacy.</p>
   </td>
  </tr>
  </table>
-
+ 
+<p>Most output files go thru post-processing for cosmetic
+purposes prior to be used (i.e., published). In addition, scripts have been
+modified to protect privacy.</p>
